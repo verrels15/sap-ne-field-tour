@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Forest Stewards Guild//Event//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sap-ne-field-tour-nyc-20261022@forestguild.org
+DTSTAMP:20260929T120000Z
+DTSTART:20261022T130000Z
+DTEND:20261022T170000Z
+SUMMARY:SAP-Ne Field Tour: Preserving the Future of Ash in New York City’s Urban Forests
+LOCATION:The New York Botanical Garden and New York City Parks\, Bronx\, NY 10458
+DESCRIPTION:SAP-Ne Field Tour. More details and registration: PASTE EVENT PAGE URL HERE
+END:VEVENT
+END:VCALENDAR
